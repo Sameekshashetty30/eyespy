@@ -2,7 +2,7 @@
 EyeSpy is a deep learning pipeline for automated classification of fundus images, designed to assist in early diagnosis of retinal diseases. It integrates multi-modal features (RGB + wavelet transforms), interpretable CNN architectures, and visual diagnostics using Grad-CAM overlays. Built for reproducibility and scalability, EyeSpy is optimized for GPU training and parallel preprocessing. 
 .
 
-🚀 Features
+🚀 Features 
 - Wavelet-based preprocessing for enhanced texture representation
 - CNN & ResNet50 architectures with transfer learning
 - Multi-modal input fusion (RGB + wavelet features)
